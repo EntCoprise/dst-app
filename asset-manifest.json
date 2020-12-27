@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dst-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/dst-app/static/js/main.1e4a75e9.chunk.js",
+    "main.js.map": "/dst-app/static/js/main.1e4a75e9.chunk.js.map",
+    "runtime-main.js": "/dst-app/static/js/runtime-main.edf75a48.js",
+    "runtime-main.js.map": "/dst-app/static/js/runtime-main.edf75a48.js.map",
+    "static/js/2.e8ef3512.chunk.js": "/dst-app/static/js/2.e8ef3512.chunk.js",
+    "static/js/2.e8ef3512.chunk.js.map": "/dst-app/static/js/2.e8ef3512.chunk.js.map",
+    "static/js/3.68ccc53c.chunk.js": "/dst-app/static/js/3.68ccc53c.chunk.js",
+    "static/js/3.68ccc53c.chunk.js.map": "/dst-app/static/js/3.68ccc53c.chunk.js.map",
+    "index.html": "/dst-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/dst-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.e8ef3512.chunk.js.LICENSE.txt": "/dst-app/static/js/2.e8ef3512.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dst-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edf75a48.js",
+    "static/js/2.e8ef3512.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1e4a75e9.chunk.js"
+  ]
+}
